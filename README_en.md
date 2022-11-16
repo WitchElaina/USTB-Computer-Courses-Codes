@@ -1,8 +1,8 @@
 # USTB-Computer-Courses-Codes
 
-Navigation USTB Computer Science Course homeworks and codes
+Navigation of USTB Computer Science Course homeworks and codes
 
-[简体中文](https://github.com/WitchElaina/USTB-Computer-Courses-Codes/blob/master/README_en.md) | English
+[简体中文](https://github.com/WitchElaina/USTB-Computer-Courses-Codes/blob/master/README.md) | English
 
 ## Navigation
 

@@ -32,7 +32,7 @@
 
 - [计算机组成原理课程设计（CG/实验平台/个人扩展/团队扩展）](https://github.com/WitchElaina/COCD)
 - [操作系统（实验）](https://github.com/WitchElaina/EOS-Lab-USTB)
-- [openGauss数据库实验](https://github.com/A-zero-two-A/USTB-openGauss-lab)
+- [openGauss数据库实验](https://github.com//USTB-openGauss-lab)
 
 > TODO
 

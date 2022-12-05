@@ -32,7 +32,7 @@ Navigation of USTB Computer Science Course homeworks and codes
 
 - [Computer Organization Course Design(All in one)](https://github.com/WitchElaina/COCD)
 - [Operating System(EOS Lab)](https://github.com/WitchElaina/EOS-Lab-USTB)
-- [openGauss数据库实验](https://github.com//USTB-openGauss-lab)
+- [openGauss Lab](https://github.com/A-zero-two-A/USTB-openGauss-lab)
 
 > TODO
 

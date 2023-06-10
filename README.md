@@ -38,7 +38,7 @@
 
 ### 大三下
 
-- [软件工程 - 体育场管预约系统](https://github.com/WitchElaina/ustb-gym-frontend)
+- [软件工程 - 体育场馆预约系统](https://github.com/WitchElaina/ustb-gym-frontend)
 
 ### 选修
 

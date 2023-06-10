@@ -39,6 +39,7 @@
 ### 大三下
 
 - [软件工程 - 体育场馆预约系统](https://github.com/WitchElaina/ustb-gym-frontend)
+- [机器学习课设（别人写的）](https://github.com/WildCat0U0/pythonProject)
 
 ### 选修
 

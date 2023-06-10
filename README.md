@@ -36,6 +36,10 @@
 - [计算机网络课程设计](https://github.com/WitchElaina/USTB-Computer-Network-Course-Design)
 - [计算机网络实验](https://github.com/WitchElaina/USTB-Computer-Networks-Lab)
 
+### 大三下
+
+- [软件工程 - 体育场管预约系统](https://github.com/WitchElaina/ustb-gym-frontend)
+
 ### 选修
 
 - [Python程序设计（大作业-图书管理系统）](https://github.com/WitchElaina/library-system)

@@ -39,7 +39,11 @@
 ### 大三下
 
 - [软件工程 - 体育场馆预约系统](https://github.com/WitchElaina/ustb-gym-frontend)
-- [机器学习课设（别人写的）](https://github.com/WildCat0U0/pythonProject)
+- 机器学习课设
+
+### 大三小学期
+
+- [AI方向 - 花卉类别检测（by ShimadaLiusu）](https://github.com/ShimadaLiusu/flowers-sort)
 
 ### 选修
 

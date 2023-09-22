@@ -1,8 +1,12 @@
-# USTB-Computer-Courses-Codes
+<h1 align="center">USTB-Computer-Courses-Codes</h1>
+
+<p align="center">简体中文  |  <a href="https://github.com/WitchElaina/USTB-Computer-Courses-Codes/blob/master/README_en.md">English</a></p>
+
 
 北京科技大学计算机系课程代码总集，个人课程代码收集与导航仓库
 
-简体中文 | [English](https://github.com/WitchElaina/USTB-Computer-Courses-Codes/blob/master/README_en.md)
+> 此仓库收录项目基于20级物联网工程大纲，如有其他想补充的项目，欢迎提交PR
+
 
 ## 导航
 

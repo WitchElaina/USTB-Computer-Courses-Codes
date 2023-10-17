@@ -3,6 +3,8 @@
 <p align="center">简体中文  |  <a href="https://github.com/WitchElaina/USTB-Computer-Courses-Codes/blob/master/README_en.md">English</a></p>
 
 
+<p align="center"><a href="mailto:WitchElain4@gmail.com"><img src="https://img.shields.io/badge/%E6%8E%A5%E5%8D%95-%E4%BB%A3%E5%81%9A-red" alt="接单 - 代做"></a>  <a href="mailto:WitchElain4@gmail.com"><img src="https://img.shields.io/badge/mail-WitchElain4%40gmail.com-2ea44f?logo=Gmail&logoColor=white" alt="mail - WitchElain4@gmail.com"></a> <a href="mailto:WitchElain4@gmail.com"><img src="https://img.shields.io/badge/%E9%AB%98%E6%95%88-%E4%BD%8E%E4%BB%B7-purple" alt="高效 - 低价"></a> </p>
+
 北京科技大学计算机系课程代码总集，个人课程代码收集与导航仓库
 
 > 此仓库收录项目基于20级物联网工程大纲，如有其他想补充的项目，欢迎提交PR

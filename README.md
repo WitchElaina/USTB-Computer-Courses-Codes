@@ -56,6 +56,11 @@
 
 - [AI方向 - 花卉类别检测](https://github.com/ShimadaLiusu/flowers-sort) [`contributed by @ShimadaLiusu`](https://github.com/ShimadaLiusu)
 
+### 毕设
+
+- [面向生成式 AI 的低代码前端开发平台的设计与实现](https://github.com/WitchElaina/py-js-lowcode)
+
+
 ### 选修
 
 - [Python程序设计（大作业-图书管理系统）](https://github.com/WitchElaina/library-system)

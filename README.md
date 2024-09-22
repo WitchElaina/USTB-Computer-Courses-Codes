@@ -9,12 +9,13 @@
 
 > 此仓库收录项目基于20/21级物联网工程大纲，如有其他想补充的项目，欢迎提交PR
 
+> 本列表中归属于 WitchElaina、A-zero-two-A 的项目（即没有 `contributed by @xxx` 后缀的）接受有偿答疑与技术支持，其余三方贡献项目只做参考，不保证有效与长期维护。如有需要联系上面的邮箱。
 
 ## 导航
 
 ### 大一
 
-- [USTB程序设计I（I和II已经在23年合并](https://github.com/CakeAL/ustb-cpp-programming)
+- [USTB程序设计I（I和II已经在23年合并](https://github.com/CakeAL/ustb-cpp-programming) [`contributed by @CakeAL`](https://github.com/CakeAL)
 
 ### 大二上
 
@@ -27,14 +28,14 @@
 
 - [数学实验（MATLAB大作业）](https://github.com/WitchElaina/base64-MATLAB)
 - [电子技术实习（两次大作业）](https://github.com/WitchElaina/Ras-Rain-Detector)
-- [人工智能（大作业）](https://github.com/WitchElaina/Beijing-bus-helper)
+- [人工智能（大作业 北京公交换乘助手）](https://github.com/WitchElaina/Beijing-bus-helper)
 - [计算机组成原理（大作业）](https://github.com/WitchElaina/single-circle-processor)
-- [北科大计通大二电子技术实习树莓派](https://github.com/CakeAL/USTB-RaspberryPi)
+- [北科大计通大二电子技术实习树莓派](https://github.com/CakeAL/USTB-RaspberryPi) [`contributed by @CakeAL`](https://github.com/CakeAL)
 
 ### 大二小学期
 
 - [认识实习（澳猫团网站）](https://github.com/WitchElaina/Aomaotuan-online-shopping)
-- [认识实习（瞭望新闻网）](https://github.com/CakeAL/lookoutnews)
+- [认识实习（瞭望新闻网）](https://github.com/CakeAL/lookoutnews) [`contributed by @CakeAL`](https://github.com/CakeAL)
 
 ### 大三上
 
@@ -43,17 +44,17 @@
 - [openGauss数据库实验](https://github.com/A-zero-two-A/USTB-openGauss-lab)
 - [计算机网络课程设计](https://github.com/WitchElaina/USTB-Computer-Network-Course-Design)
 - [计算机网络实验](https://github.com/WitchElaina/USTB-Computer-Networks-Lab)
-- [嵌入式系统实验](https://github.com/CakeAL/ustb-embedded)
+- [嵌入式系统实验](https://github.com/CakeAL/ustb-embedded) [`contributed by @CakeAL`](https://github.com/CakeAL)
 
 ### 大三下
 
 - [软件工程 - 体育场馆预约系统](https://github.com/WitchElaina/ustb-gym-frontend)
 - 机器学习课设
-- [人工智能与机器学习大作业——公交换乘系统设计与开发（2 人组）](https://github.com/CakeAL/beijing-bus-transfer-system)
+- [人工智能与机器学习 (公交换乘系统设计与开发)](https://github.com/CakeAL/beijing-bus-transfer-system)  [`contributed by @CakeAL`](https://github.com/CakeAL)
 
 ### 大三小学期
 
-- [AI方向 - 花卉类别检测（by ShimadaLiusu）](https://github.com/ShimadaLiusu/flowers-sort)
+- [AI方向 - 花卉类别检测](https://github.com/ShimadaLiusu/flowers-sort) [`contributed by @ShimadaLiusu`](https://github.com/ShimadaLiusu)
 
 ### 选修
 

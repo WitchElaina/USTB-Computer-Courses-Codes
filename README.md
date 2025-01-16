@@ -23,7 +23,7 @@
 - [拆弹实验（思路与自动拆弹脚本）](https://github.com/WitchElaina/bomblab-auto-defuse)
 - [银行系统（命令行）](https://github.com/WitchElaina/BankSystem_CommandLineTools)
 - [银行系统（图形界面Win/macOS）](https://github.com/WitchElaina/BankSystem)
-- [数据结构与算法（实验)](https://github.com/killerDK/USTB-LambdaOJ-answer)
+- [数据结构与算法（实验)](https://github.com/killerDK/USTB-LambdaOJ-answer) [`contributed by @killerDK`](https://github.com/killerDK)
 
 ### 大二下
 

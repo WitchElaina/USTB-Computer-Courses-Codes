@@ -50,8 +50,10 @@
 ### 大三下
 
 - [软件工程 - 体育场馆预约系统](https://github.com/WitchElaina/ustb-gym-frontend)
+- [《人工智能与机器学习》课程实践](https://github.com/tes223/USTB-Artificial-Intelligence-Machine-Learning-Practices)  [`contributed by @tes223`](https://github.com/tes223)
 - 机器学习课设
-- [人工智能与机器学习 (公交换乘系统设计与开发)](https://github.com/CakeAL/beijing-bus-transfer-system)  [`contributed by @CakeAL`](https://github.com/CakeAL)
+- [人工智能与机器学习 (公交换乘系统设计与开发，基于Rust、Tauri框架、sqlite3 数据库)](https://github.com/CakeAL/beijing-bus-transfer-system)  [`contributed by @CakeAL`](https://github.com/CakeAL)
+- [人工智能与机器学习 (公交换乘系统设计与开发，基于Python、Gradio前端、无数据库操作)](https://github.com/tes223/Beijing-Bus-Route-Planning)  [`contributed by @tes223`](https://github.com/tes223)
 
 ### 大三小学期
 

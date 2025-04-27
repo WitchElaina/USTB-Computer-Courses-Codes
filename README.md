@@ -15,19 +15,19 @@
 
 ### 大一
 
-- [USTB程序设计I（I和II已经在23年合并](https://github.com/CakeAL/ustb-cpp-programming) [`contributed by @CakeAL`](https://github.com/CakeAL)
+- [C++ 程序设计](https://github.com/CakeAL/ustb-cpp-programming) [`contributed by @CakeAL`](https://github.com/CakeAL)
 
 ### 大二上
 
 - [数字逻辑（CG/实验）](https://github.com/WitchElaina/Verilog-CG-Works)
 - [拆弹实验（思路与自动拆弹脚本）](https://github.com/WitchElaina/bomblab-auto-defuse)
 - [银行系统（命令行）](https://github.com/WitchElaina/BankSystem_CommandLineTools)
-- [银行系统（图形界面Win/macOS）](https://github.com/WitchElaina/BankSystem)
+- [银行系统（图形界面 Win/macOS）](https://github.com/WitchElaina/BankSystem)
 - [数据结构与算法（实验)](https://github.com/killerDK/USTB-LambdaOJ-answer) [`contributed by @killerDK`](https://github.com/killerDK)
 
 ### 大二下
 
-- [数学实验（MATLAB大作业）](https://github.com/WitchElaina/base64-MATLAB)
+- [数学实验（MATLAB 大作业）](https://github.com/WitchElaina/base64-MATLAB)
 - [电子技术实习（两次大作业）](https://github.com/WitchElaina/Ras-Rain-Detector)
 - [人工智能（大作业 北京公交换乘助手）](https://github.com/WitchElaina/Beijing-bus-helper)
 - [计算机组成原理（大作业）](https://github.com/WitchElaina/single-circle-processor)
@@ -42,7 +42,7 @@
 
 - [计算机组成原理课程设计（CG/实验平台/个人扩展/团队扩展）](https://github.com/WitchElaina/COCD)
 - [操作系统（实验）](https://github.com/WitchElaina/EOS-Lab-USTB)
-- [openGauss数据库实验](https://github.com/A-zero-two-A/USTB-openGauss-lab)
+- [openGauss 数据库实验](https://github.com/A-zero-two-A/USTB-openGauss-lab)
 - [计算机网络课程设计](https://github.com/WitchElaina/USTB-Computer-Network-Course-Design)
 - [计算机网络实验](https://github.com/WitchElaina/USTB-Computer-Networks-Lab)
 - [嵌入式系统实验](https://github.com/CakeAL/ustb-embedded) [`contributed by @CakeAL`](https://github.com/CakeAL)
@@ -55,7 +55,7 @@
 
 ### 大三小学期
 
-- [AI方向 - 花卉类别检测](https://github.com/ShimadaLiusu/flowers-sort) [`contributed by @ShimadaLiusu`](https://github.com/ShimadaLiusu)
+- [AI 方向 - 花卉类别检测](https://github.com/ShimadaLiusu/flowers-sort) [`contributed by @ShimadaLiusu`](https://github.com/ShimadaLiusu)
 
 ### 毕设
 
@@ -64,5 +64,5 @@
 
 ### 选修
 
-- [Python程序设计（大作业-图书管理系统）](https://github.com/WitchElaina/library-system)
+- [Python 程序设计（大作业 - 图书管理系统）](https://github.com/WitchElaina/library-system)
 
